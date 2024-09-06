@@ -5,7 +5,7 @@
 * Antonia Walker 
 
 ## TEMA
-### "Los libros más leídos en la última década en Chile: Análisis del lector promedio"
+### "Chile en Páginas: Análisis del Lector Promedio"
 En un país donde los precios de los libros son elevados y el acceso a la lectura es limitado, surge la pregunta fundamental: ¿por qué en Chile no se lee tanto como en otros lugares, o acaso se lee más de lo que pensamos? Este proyecto se propone investigar no solo el fenómeno de la piratería de libros y su relación con los altos costos, sino también las causas subyacentes de los hábitos de lectura en Chile. Queremos entender si el bajo índice de lectura es una realidad o si existen lectores activos cuya presencia pasa desapercibida en las estadísticas oficiales.
 
 A través de un seguimiento detallado, buscamos no solo establecer comparativas entre el precio de los libros y el aumento de la piratería, sino también describir al lector promedio en Chile: sus intereses, sus motivaciones para leer, y cómo se enfrenta a las barreras económicas y culturales que limitan su acceso a los libros. Parte de este análisis incluye explorar la industria del libro en Chile: cómo circulan los libros, qué canales utiliza el público para descubrir nuevas obras, y cuáles son las dinámicas de compra que se generan a partir de ello.
