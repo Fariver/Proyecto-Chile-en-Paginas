@@ -50,18 +50,6 @@ Por último, en términos de visualización de datos pensamos hacer infografías
 ## ¿Qué datos necesitamos para probar las hipótesis? ##
 Para probar las hipótesis del proyecto, se requiere analizar datos sobre los precios de los libros en Chile en comparación con otros países, así como la evolución de estos precios en los últimos años. También es fundamental recopilar estadísticas sobre los niveles de piratería de libros, identificando los géneros y formatos más afectados. Además, se deben obtener datos sobre los hábitos de lectura en Chile, incluyendo el promedio de libros leídos y las principales barreras económicas y de acceso que enfrentan los lectores. Finalmente, es necesario revisar las políticas públicas vigentes relacionadas con el acceso a la lectura y evaluar su efectividad en fomentar la lectura y regular el mercado del libro.
 
-
-
-## ¿Cuál es la historia de su propuesta de investigación? ¿Qué es lo nuevo? ##
-La propuesta se centra en una problemática actual y compleja: la piratería de libros en Chile. A través de un enfoque basado en datos, el proyecto busca contar la historia de cómo la piratería se ha visto impulsada por factores como el precio de los libros y los intereses de los lectores. Esta historia se entrelaza con un análisis del lector promedio en Chile, explorando sus preferencias y cómo estas impactan la demanda de libros piratas. También se investigará el rol del Estado en la fiscalización y regulación de esta problemática, brindando una visión completa de la situación. La narrativa que surge de estos datos permitirá comprender las causas y consecuencias de la piratería.
-
-Lo novedoso de esta investigación radica en su enfoque integral y basado en datos para abordar la piratería de libros, un tema que ha sido discutido principalmente desde una perspectiva legal y económica, pero que pocas veces ha sido analizado desde el punto de vista del consumidor y sus hábitos. Al comparar los precios de los libros con los niveles de piratería y estudiar los intereses del lector promedio, se aportará una perspectiva fresca sobre cómo la accesibilidad económica y las preferencias de los lectores alimentan el mercado pirata. Además, al incluir el análisis de las políticas y acciones del Estado, el proyecto no solo revela el estado actual del problema, sino que también abre un debate sobre la efectividad de las medidas regulatorias y la necesidad de nuevas estrategias.
-
-## ¿Cómo planeamos trabajar los datos? ##
-Vamos a recolectar datos de estudios previos sobre el mercado editorial en Chile, informes de organismos como IPSOS o de universidades y estadísticas sobre precios de libros y niveles de piratería disponibles en bases de datos públicas o privadas. Luego planeamos hacer comparativas y correlaciones para analizar la relación entre los precios de los libros y el aumento de la piratería. Se buscará correlacionar estos datos para identificar patrones y tendencias.
-También queremos hacer una segmentación del lector para identificar perfiles de lectores según sus intereses, nivel socioeconómico, edad, y otros factores demográficos. Esto permitirá entender mejor cómo ciertos grupos contribuyen al mercado pirata.
-Por último, en términos de visualización de datos pensamos hacer infografías narrativas de modo que combinen datos estadísticos con la narrativa del reportaje, haciendo accesible la información compleja para un público general.
-
 ## ¿Qué datos tenemos? ##
 Necesitamos conseguir datos sobre piratería de libro en Chile, aunque tenemos una lista de fuentes de datos: 
 
@@ -122,7 +110,7 @@ Los **mapas de calor** podrían usarse para mostrar geográficamente la distribu
 
 En conjunto, estos elementos digitales harán que la historia no solo sea informativa sino también inmersiva y accesible, permitiendo a los usuarios explorar los datos de manera visual y comprensiva.
 
-
+## Base de Datos Inicial ##
 
 
 
