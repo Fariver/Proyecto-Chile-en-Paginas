@@ -111,6 +111,13 @@ Los **mapas de calor** podrían usarse para mostrar geográficamente la distribu
 En conjunto, estos elementos digitales harán que la historia no solo sea informativa sino también inmersiva y accesible, permitiendo a los usuarios explorar los datos de manera visual y comprensiva.
 
 ## Base de Datos Inicial ##
+1. [Informe de hábitos y percepciones lectoras en Chile (IPSOS)](https://www.fundacionlafuente.cl/2022/wp-content/uploads/2022/04/Ipsos-Informe-de-Habitos-y-Percepciones-Lectoras-en-Chile-1.pdf)
+2. [Estadísticas sobre el libro y la lectura
+ (Universidad de Chile)](https://uchile.cl/extension-y-cultura/vicerrectoria-de-extension-y-comunicaciones/observatorio-del-libro-y-la-lectura/estudios/estadisticas-sobre-el-libro-y-la-lectura)
+ 3. [Política Nacional de la Lectura, El Libro y las Bibliotecas (Ministerio de Culturas)](https://www.cultura.gob.cl/politicas-culturales/wp-content/uploads/sites/2/2023/05/documento_politica-del-libro-2023final-6.pdf)
+4. [Leer en Chile 2022: Estudio de Hábitos y Percepciones Lectoras (IPSOS)](https://www.ipsos.com/sites/default/files/ct/publication/documents/2022-10/Leer%20en%20Chile%202022_baja.pdf)
+
+
 
 
 
