@@ -1,0 +1,18 @@
+﻿Regiones ;Número de préstamos;;;Cantidad de préstamos de mayor a menor;
+Región de Arica y Parinacota;18397;;;Regiones ;Número de préstamos
+Región de Tarapacá;8630;;;Región Metropolitana;603212
+Región de Antofagasta;27962;;;Región de Valparaíso;159925
+Región de Atacama;14188;;;Región de La Araucanía;132272
+Región de Coquimbo;70300;;;Región de Los Lagos;116333
+Región de Valparaíso;159925;;;Región de Coquimbo;70300
+Región Metropolitana;603212;;;Región de O’Higgins;67697
+Región de O’Higgins;67697;;;Región del Biobío;64320
+Región del Maule;57395;;;Región del Maule;57395
+Región de Ñuble;31860;;;Región de Los Ríos;46074
+Región del Biobío;64320;;;Región de Aysén;32458
+Región de La Araucanía;132272;;;Región de Ñuble;31860
+Región de Los Ríos;46074;;;Región de Antofagasta;27962
+Región de Los Lagos;116333;;;Región de Arica y Parinacota;18397
+Región de Aysén;32458;;;Región de Atacama;14188
+Región de Magallanes;11033;;;Región de Magallanes;11033
+;;;;Región de Tarapacá;8630
