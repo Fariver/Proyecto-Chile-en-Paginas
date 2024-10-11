@@ -9,5 +9,5 @@
 ||PRÉSTAMOS |La cantidad de libros que fueron prestados por las bibliotecas de cada región. |
 ||ACTIVIDAES DE FOMENTO LECTOR|<p>La cantidad de actividades de fomento lector realizadas en las distintas regiones del país. </p><p></p>|
 ||PERSONAS SOCIAS ACTIVAS |Cantidad de personas que fueron socias de las bibliotecas.|
-|OBSERVACIONES|El archivo que contiene las estadísticas por región tiene una hoja donde están todas las tablas juntas, pero también dentro del mismo Excel, las regiones fueron separadas por hojas. ||
+|OBSERVACIONES|El archivo que contiene las estadísticas por región, llamado SNBP_regiones_database.csv tiene una hoja donde están todas las tablas juntas, pero también dentro del mismo Excel, las regiones fueron separadas por hojas. El archivo que tiene la información de usuarios, préstamos y actividades por región se llama Usuarios_prestamos_actividades_database.csv y cada categoría está en una hoja distinta ||
 
