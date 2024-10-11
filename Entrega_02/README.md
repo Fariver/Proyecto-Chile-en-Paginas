@@ -5,6 +5,6 @@ Nuestro objetivo será comparar y relacionar datos sobre estas políticas, como 
 
 Otro elemento que nos gustaría saber es qué tan efectivo es el Servicio Nacional de Biblioteca Pública, comparando tanto a las personas activas e inscritas en el servicio con las personas que piden un préstamos de libros. Finalmente, con estos datos buscamos conocer si este Servicio incita a la lectura: ¿Realmente aquellos que se inscriben, piden libros?
 
-Video: 
+[Video](https://youtu.be/wmEV28-lG2E)
 
-Carrusel: https://www.canva.com/design/DAGTOxjQZaw/susPLJDz2kaB4Uhq2sekVw/edit?utm_content=DAGTOxjQZaw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
+[Carrusel](https://www.canva.com/design/DAGTOxjQZaw/susPLJDz2kaB4Uhq2sekVw/edit?utm_content=DAGTOxjQZaw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
