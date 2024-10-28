@@ -58,4 +58,8 @@ Cada página del sitio sigue una estructura clara con una jerarquía visual que 
   ![referencia 2](image/poncho2.png)
   ![referencia 3](image/ponchos3.png)
 
-
+- Municipalidad de Machalí: Claro, simple y de fácil acceso, pero además, el sitio web de la comuna de Machalí tiene una paleta de colores muy similares a la que queremos ocupar. Además de tener elementos visuales creativos, tales como los que queremos implementar en nuestra webstory, una iconografía simple y simpática. 
+  [Ver el sitio web de la Municipalidad de Machalí]([URL](https://machali.cl/))
+  ![referencia 1](image/m1.png)
+  ![referencia 2](image/m2.png)
+  ![referencia 3](image/m3.png)
