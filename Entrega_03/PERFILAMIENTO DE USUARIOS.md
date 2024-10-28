@@ -37,35 +37,15 @@
   **(imagen creada con IA \- Chat GTP 4o)**
 
 
-* **Información demográfica:** Mujer, 35 años, nacida en Futaleufú. Carrera técnica completa en Bibliotecología y Gestión de la Información. Actualmente estudia vespertino Literatura y trabaja en un colegio particular pagado en las mañanas en Viña del Mar, lugar en el que reside actualmente.   
-* **Descripción / Bio:** Jacinta siempre soñó con ser profesora, pero debido a que su familia no podía costear sus estudios completos optó por una carrera técnica. Su amor por los libros hicieron que desempeñara su trabajo siempre con alegría. Tras mucho ahorrar está estudiando Literatura, para posteriormente hacer el curso de docencia y desempeñarse como profesora en algún establecimiento estatal, pues ama a los niños y quiere transmitirles la importancia de leer.   
-* **Personalidad:** Responsable, comprometida, disciplinada, resiliente y tremendamente noble. Siente una fuerte atracción por lo romántico. Persigue sus sueños a costa de todo el esfuerzo que deba invertir en ello.   
+* **Información demográfica:** Mujer, 22 años, nació y reside en Santiago Centro. Es estudiante de 3er año de Publicidad, en una universidad privada.   
+* **Descripción / Bio:** Desde pequeña, Jacinta quedaba fascinada con las propagandas que veía en la calle. Los colores y las formas capturaban su atención, y le pasaba algo similar con las portadas de libros. Como buena humanista, siempre fue una ávida lectora, por lo que está inscirta en varios organismos que le permiten tomar prestados diferentes ejemplares. A medida que creció, se dió cuenta que su sueño era ser publicista de editoriales, cuyo enfoque sea principalmente juvenil. Hace cinco años, forma parte de un club de lectura semanal.  
+* **Personalidad:** Es conversadora, sociable, amable y creativa. Destaca por su capacidad para gestionar el estrés. Además, la lectura la ha dotado de un asombroso pensamiento crítico. 
 * **Necesidades y objetivos: ¿qué busca en la webstory?**  
-  Para una investigación de la universidad, Jacinta quiere saber cuáles son los resultados SIMCE de los últimos años, y en qué áreas se requiere fortalecimiento. Además, necesita conocer cuáles son las políticas públicas de lectura en Chile.   
-* **Motivaciones:** Quiere obtener buenas calificaciones y conocer más sobre los desafíos de su futuro entorno laboral, sobre todo de las regiones, ya que quiere volver al sur a trabajar.   
-* **Desafíos**: Tiene poco tiempo, por lo que necesita acceso de forma expedita a la información. Además, debe cruzar información de todo el país.   
-* **Uso de la tecnología:** Jacinta está súper familiarizada con la tecnología (alta), pues se rodea de gente joven todo el tiempo y por su trabajo siempre está actualizada. Su consumo de contenido en línea es altísimo, pues en el colegio siempre le exigen estar a la vanguardia de la bibliotecología, por lo que siempre está leyendo… (y si no es eso, es Wattpad). Sabe manejar todas las herramientas de Microsoft Office, además de softwares especializados en su área y páginas creativas como Canva o Miró. Posee computador personal y de trabajo, además de tablet y celular. Si bien, no es nativa digital, se maneja como una. 
-
-Nombre: Elisa Manríquez   
-Edad: 22  
-Comuna: Santiago Centro  
-\-	Estudiante de Publicidad U. de Chile.   
-\-	Ama a sus dos perros.   
-\-	Estudia la mayoría de los días de la semana.   
-\-	Participa semanalmente en club de lectura, al menos una vez a la semana.   
-\-	Le gusta visitar las librerías del centro. Su favorita es La Feria Nacional del Libro.   
-\-	Se lee dos libros al mes. A mitad de mes va directamente a la Biblioteca Nacional Pública, donde es usuaria activa para pedir un libro.   
-Habilidad  
-\-	Es conversadora y social   
-\-	Es amable  
-\-	Tiene pensamiento crítico  
-\-	Gestiona el estrés con la lectura  
-\-	Es creativa   
-Hobbies  
-\-	Ama leer   
-\-	Hace deporte.  
-\-	Ama la música. En especial, cuando está leyendo un libro. Sus bandas favoritas son The Beatles y The Queen. Y sus artistas favoritos son George Harrison y David Bowie.
-
+  Elisa quiere saber en qué organismos le conviene tomar prestados libros, para estar segura de encontrarlos cuando se dirija a los establecimientos. Además, quiere estar a la vanguardia para aportar con nuevas ideas en su club de lectura. 
+* **Motivaciones:** Quiere seguir cultivando, de la manera más eficiente posible, su librero mental.    
+* **Desafíos**: Estudia todos los días y recibe una mesada de sus padres, por lo que su tiempo y recursos son escasos.  
+* **Uso de la tecnología:** Elisa está súper familiarizada con la tecnología (alta), pues es parte de una generación que se crió en medio de los avances tecnológicos. Además, consume contenidos digitales la mayor parte de su día.
+  
 ---
 
 ### User Journey Map (Perfil 1: Profesor de Lenguaje de Enseñanza Media)
