@@ -1,8 +1,15 @@
+**Chile en Páginas: Análisis de Políticas de Fomento a la Lectura en Chile**  
+En esta entrega nos enfocamos en el diseño estructural y la identidad visual de nuestra webstory “Chile en Páginas”. 
 
-# Chile en Páginas: Análisis del Lector Promedio #
+**Estructura y Metodología de Trabajo**  
+Para lograr una experiencia de usuario eficaz, comenzamos con un perfilamiento de usuarios mediante mapas de empatía. Esta herramienta nos permitió entender profundamente las necesidades, motivaciones y desafíos de tres tipos de usuarios: un abogado, una estudiante de literatura y una estudiante de publicidad.  
+A través de este proceso, establecimos una estructura acorde a cada perfil que se verá reflejada en el flujo de navegación de la webstory. 
 
-Este proyecto busca analizar los hábitos de lectura en Chile, enfocándose en comprender el perfil del lector promedio y las principales barreras que enfrenta. A través de un análisis basado en datos, compararemos los precios de los libros con los niveles de piratería, identificando cómo factores económicos y de acceso influyen en el hábito de la lectura. También evaluaremos el impacto de las políticas públicas en el fomento de la lectura y su efectividad en ampliar el acceso a los libros. El objetivo es ofrecer una visión integral sobre la relación entre el costo de la lectura, el acceso a los libros, y el comportamiento lector en Chile.
+En cuanto a la identidad visual, desarrollamos una propuesta que incluye una paleta de colores específica, tipografía, un logo y el nombre. Todos estos elementos elegidos probando distintas combinaciones. 
 
-[Video](https://youtu.be/YmImMxeaBEE?feature=shared)
+**Wireframe y Propuesta de Navegación**  
+El prototipo de baja fidelidad de la webstory Chile en Páginas se desarrolló con una estructura simple y directa, destacando la jerarquía de información para facilitar su lectura y navegación. Los usuarios podrán acceder rápidamente a gráficos y elementos visuales que simplifican el entendimiento de los datos presentados, complementados con enlaces adicionales a recursos relevantes, como estudios sobre la efectividad de las políticas de lectura en Chile. La navegación está diseñada para que los usuarios exploren información de manera intuitiva, con acceso directo a secciones específicas, como la metodología y conclusiones del estudio.
 
-[Carrusel](https://www.canva.com/design/DAGPiSo6Erg/CXKLQ4dZsq1qWU57ftQarg/edit?utm_content=DAGPiSo6Erg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+**Carrusel**: https://www.canva.com/design/DAGUmAKkwlA/P1Xaqs2j2gi2uAbuAEaDXw/edit
+
+**Video**:   
