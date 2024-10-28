@@ -1,7 +1,7 @@
 **Perfilamiento de dos usuarios.**
 
 **Rogelio Esparza**  
-**![][image1]**   
+![Rogelio Esparza](image/rogelio.png)
 **(imagen creada con IA \- Chat GTP 4o)**
 
 * **Información demográfica:** Hombre, 40 años, nacido en Santiago de Chile. Estudios universitarios completos en Derecho (abogado), con magíster en políticas públicas. Trabaja en la Fundación Cultural de Providencia, misma comuna en la que reside.   
@@ -15,7 +15,7 @@
 * **Uso de la tecnología:** Está súper familiarizado con la tecnología (alta), debido a los altos cargos que siempre ha ocupado. Su consumo en línea es normal, ya que, usualmente los informes le llegan por su mismo trabajo, además, dedica tiempo a su familia, por lo que respeta los tiempos de desconexión. Se maneja con todo lo que es Microsoft Office, sin embargo, carece de conocimientos de herramientas más modernas e interactivas. Ocupa mucho su laptop personal y su iPhone.   
     
   **Jacinta Cornejo**  
-  ![][image2]  
+  ![Jacinta Cornejo](image/jacinta.png)
   **(imagen creada con IA \- Chat GTP 4o)**  
     
 * **Información demográfica:** Mujer, 35 años, nacida en Futaleufú. Carrera técnica completa en Bibliotecología y Gestión de la Información. Actualmente estudia vespertino Literatura y trabaja en un colegio particular pagado en las mañanas en Viña del Mar, lugar en el que reside actualmente.   
@@ -30,67 +30,50 @@
   **Elisa Manríquez** 
 
 
-  **![][image3]**
+  ![Elisa Manríquez](image/elisa.png)
+
 
 
   **(imagen creada con IA \- Chat GTP 4o)**
 
 
-* **Información demográfica:** Mujer, 35 años, nacida en Futaleufú. Carrera técnica completa en Bibliotecología y Gestión de la Información. Actualmente estudia vespertino Literatura y trabaja en un colegio particular pagado en las mañanas en Viña del Mar, lugar en el que reside actualmente.   
-* **Descripción / Bio:** Jacinta siempre soñó con ser profesora, pero debido a que su familia no podía costear sus estudios completos optó por una carrera técnica. Su amor por los libros hicieron que desempeñara su trabajo siempre con alegría. Tras mucho ahorrar está estudiando Literatura, para posteriormente hacer el curso de docencia y desempeñarse como profesora en algún establecimiento estatal, pues ama a los niños y quiere transmitirles la importancia de leer.   
-* **Personalidad:** Responsable, comprometida, disciplinada, resiliente y tremendamente noble. Siente una fuerte atracción por lo romántico. Persigue sus sueños a costa de todo el esfuerzo que deba invertir en ello.   
+* **Información demográfica:** Mujer, 22 años, nació y reside en Santiago Centro. Es estudiante de 3er año de Publicidad, en una universidad privada.   
+* **Descripción / Bio:** Desde pequeña, Jacinta quedaba fascinada con las propagandas que veía en la calle. Los colores y las formas capturaban su atención, y le pasaba algo similar con las portadas de libros. Como buena humanista, siempre fue una ávida lectora, por lo que está inscirta en varios organismos que le permiten tomar prestados diferentes ejemplares. A medida que creció, se dió cuenta que su sueño era ser publicista de editoriales, cuyo enfoque sea principalmente juvenil. Hace cinco años, forma parte de un club de lectura semanal.  
+* **Personalidad:** Es conversadora, sociable, amable y creativa. Destaca por su capacidad para gestionar el estrés. Además, la lectura la ha dotado de un asombroso pensamiento crítico. 
 * **Necesidades y objetivos: ¿qué busca en la webstory?**  
-  Para una investigación de la universidad, Jacinta quiere saber cuáles son los resultados SIMCE de los últimos años, y en qué áreas se requiere fortalecimiento. Además, necesita conocer cuáles son las políticas públicas de lectura en Chile.   
-* **Motivaciones:** Quiere obtener buenas calificaciones y conocer más sobre los desafíos de su futuro entorno laboral, sobre todo de las regiones, ya que quiere volver al sur a trabajar.   
-* **Desafíos**: Tiene poco tiempo, por lo que necesita acceso de forma expedita a la información. Además, debe cruzar información de todo el país.   
-* **Uso de la tecnología:** Jacinta está súper familiarizada con la tecnología (alta), pues se rodea de gente joven todo el tiempo y por su trabajo siempre está actualizada. Su consumo de contenido en línea es altísimo, pues en el colegio siempre le exigen estar a la vanguardia de la bibliotecología, por lo que siempre está leyendo… (y si no es eso, es Wattpad). Sabe manejar todas las herramientas de Microsoft Office, además de softwares especializados en su área y páginas creativas como Canva o Miró. Posee computador personal y de trabajo, además de tablet y celular. Si bien, no es nativa digital, se maneja como una. 
-
-Nombre: Elisa Manríquez   
-Edad: 22  
-Comuna: Santiago Centro  
-\-	Estudiante de Publicidad U. de Chile.   
-\-	Ama a sus dos perros.   
-\-	Estudia la mayoría de los días de la semana.   
-\-	Participa semanalmente en club de lectura, al menos una vez a la semana.   
-\-	Le gusta visitar las librerías del centro. Su favorita es La Feria Nacional del Libro.   
-\-	Se lee dos libros al mes. A mitad de mes va directamente a la Biblioteca Nacional Pública, donde es usuaria activa para pedir un libro.   
-Habilidad  
-\-	Es conversadora y social   
-\-	Es amable  
-\-	Tiene pensamiento crítico  
-\-	Gestiona el estrés con la lectura  
-\-	Es creativa   
-Hobbies  
-\-	Ama leer   
-\-	Hace deporte.  
-\-	Ama la música. En especial, cuando está leyendo un libro. Sus bandas favoritas son The Beatles y The Queen. Y sus artistas favoritos son George Harrison y David Bowie.
-
+  Elisa quiere saber en qué organismos le conviene tomar prestados libros, para estar segura de encontrarlos cuando se dirija a los establecimientos. Además, quiere estar a la vanguardia para aportar con nuevas ideas en su club de lectura. 
+* **Motivaciones:** Quiere seguir cultivando, de la manera más eficiente posible, su librero mental.    
+* **Desafíos**: Estudia todos los días y recibe una mesada de sus padres, por lo que su tiempo y recursos son escasos.  
+* **Uso de la tecnología:** Elisa está súper familiarizada con la tecnología (alta), pues es parte de una generación que se crió en medio de los avances tecnológicos. Además, consume contenidos digitales la mayor parte de su día.
+  
 ---
 
-### User Journey Map (Perfil 1: Profesor de Lenguaje de Enseñanza Media)
-
-1. Paso 1: Conocimiento de la webstory  
-   * Acción: El profesor escucha sobre la webstory a través de redes sociales, noticias educativas, o un correo de una asociación docente.  
-   * Pensamiento: “Esta podría ser una fuente de datos útil para mis clases sobre comprensión lectora”.  
-   * Emoción: Curiosidad, interés.  
-2. Paso 2: Exploración inicial  
-   * Acción: Entra al sitio web y explora las secciones de datos sobre bibliotecas públicas y comprensión lectora.  
-   * Pensamiento: “Necesito datos comparativos para demostrar cómo estas políticas afectan los resultados de mis estudiantes”.  
-   * Emoción: Motivación.  
-3. Paso 3: Interacción con los datos  
-   * Acción: Selecciona las estadísticas de su región, compara el uso de bibliotecas públicas con los resultados de las pruebas SIMCE en su comuna.  
-   * Pensamiento: “Puedo usar estos datos para ver si el acceso a libros influye en los resultados de mis estudiantes”.  
+### User Journey Map : Rogelio Esparza 
+1. Conocer la Webstory
+   * Acción:
+     A: Escucha a colegas hablar de ella en un congreso de Políticas Públicas para la educación. 
+     B: La encuentra mediante un buscador web. 
+   * Pensamiento:
+     A: "Oh, que dinámico. Lo voy a visitar"
+     B: "Esta investigación puede ser útil para las demandas de la ciudadanía"  
+   * Emociones: Curiosidad, alegría, interés. 
+2. Exploración 
+   * Acción:
+     - Entra al sitio web y pone especial atención a la sección sobre el SIMCE.
+   * Pensamiento:
+     - “Necesito datos comparativos para demostrarle a mis colegas cuáles son las habilidades que más se evalúan en el SIMCE y su relación son el nivel 
+     socioeconómico”  
+   * Emoción: Concentración.
+3. Interacción con los datos  
+   * Acción: Selecciona las estadísticas de la RM, compara las habilidades evaluadas con los resultados de las pruebas SIMCE en RM, y los porcentajes de rendición según nivel socioeconómico.  
+   * Pensamiento: “¿Cómo puedo potenciar estas habilidades en los diferentes sectores socioeconómicos?”  
    * Emoción: Entusiasmo.  
-4. Paso 4: Reflexión y uso de los datos  
-   * Acción: Extrae los datos para una presentación en su clase, destacando la importancia de la lectura.  
-   * Pensamiento: “Estos datos son una herramienta poderosa para mostrar la relación entre políticas de lectura y el rendimiento de los estudiantes”.  
-   * Emoción: Satisfacción, logro.  
-5. Paso 5: Evaluación del impacto  
-   * Acción: Implementa nuevas actividades basadas en el uso de bibliotecas y sigue el impacto en los resultados de sus estudiantes.  
-   * Pensamiento: “¿Estarán mejorando los resultados en base a estas actividades?”  
-   * Emoción: Esperanza, compromiso.
-
-Este user journey map muestra cómo un profesor puede utilizar nuestra webstory para obtener y aplicar información útil en su trabajo docente.
+4. Reflexión y uso de los datos  
+   * Acción: Extrae los datos para exponerlos en una reunión con miembros de la comisión de educación de su partido.   
+   * Pensamiento: “De esta manera podré proponer nuevas políticas públicas, que fortalezcan las habilidades medidas en el SIMCE y la lectura en el país”.   
+   * Emoción: Felicidad, satisfacción, útil.
+     
+Este user journey map muestra cómo un político puede utilizar nuestra webstory para obtener y aplicar información útil en los diálogos de su partido/comisión de educación.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**  
 
