@@ -15,7 +15,7 @@
 * **Uso de la tecnología:** Está súper familiarizado con la tecnología (alta), debido a los altos cargos que siempre ha ocupado. Su consumo en línea es normal, ya que, usualmente los informes le llegan por su mismo trabajo, además, dedica tiempo a su familia, por lo que respeta los tiempos de desconexión. Se maneja con todo lo que es Microsoft Office, sin embargo, carece de conocimientos de herramientas más modernas e interactivas. Ocupa mucho su laptop personal y su iPhone.   
     
   **Jacinta Cornejo**  
-  ![][image2]  
+  ![Jacinta Cornejo](image/jacinta.png)
   **(imagen creada con IA \- Chat GTP 4o)**  
     
 * **Información demográfica:** Mujer, 35 años, nacida en Futaleufú. Carrera técnica completa en Bibliotecología y Gestión de la Información. Actualmente estudia vespertino Literatura y trabaja en un colegio particular pagado en las mañanas en Viña del Mar, lugar en el que reside actualmente.   
@@ -30,7 +30,7 @@
   **Elisa Manríquez** 
 
 
-  **![][image3]**
+  [Elisa Manriquez](image/elisa.png)
 
 
   **(imagen creada con IA \- Chat GTP 4o)**
