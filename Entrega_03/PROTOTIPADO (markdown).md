@@ -52,6 +52,9 @@ Cada página del sitio sigue una estructura clara con una jerarquía visual que 
   ![referencia 2](image/maristas2.png)
   ![referencia 3](image/maristas3.png)
   
-- Maristas Chile: Es un sitio web de un sector educativo de Chile, cuya interfaz es simple y diseño sólido. Amigable con todos los dispositivos y de navegación intuitiva.
-
-
+- Red Poncho Producciones: Es un sitio web de una productora musical nacional. Si bien es totalmente ajeno a nuestro enfoque, su interfaz simple nos identifica. Tiene un *open* con fluidez y una barra de contenidos simple, como lo que nosotras queremos reflejar. Además, a medida que se hace *scrolling* se puede ir conociendo las propuestas de la productora, algo que queremos imitar en Chile en Páginas.
+  [Ver el sitio web de Red Poncho Producciones]([URL](https://www.redponchoproducciones.com/))
+  ![referencia 1](image/poncho1.png)
+  ![referencia 2](image/poncho2.png)
+  ![referencia 3](image/ponchos3.png)
+  
