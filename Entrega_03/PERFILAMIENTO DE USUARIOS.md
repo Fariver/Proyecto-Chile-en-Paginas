@@ -48,30 +48,32 @@
   
 ---
 
-### User Journey Map (Perfil 1: Profesor de Lenguaje de Enseñanza Media)
-
-1. Paso 1: Conocimiento de la webstory  
-   * Acción: El profesor escucha sobre la webstory a través de redes sociales, noticias educativas, o un correo de una asociación docente.  
-   * Pensamiento: “Esta podría ser una fuente de datos útil para mis clases sobre comprensión lectora”.  
-   * Emoción: Curiosidad, interés.  
-2. Paso 2: Exploración inicial  
-   * Acción: Entra al sitio web y explora las secciones de datos sobre bibliotecas públicas y comprensión lectora.  
-   * Pensamiento: “Necesito datos comparativos para demostrar cómo estas políticas afectan los resultados de mis estudiantes”.  
-   * Emoción: Motivación.  
-3. Paso 3: Interacción con los datos  
-   * Acción: Selecciona las estadísticas de su región, compara el uso de bibliotecas públicas con los resultados de las pruebas SIMCE en su comuna.  
-   * Pensamiento: “Puedo usar estos datos para ver si el acceso a libros influye en los resultados de mis estudiantes”.  
+### User Journey Map : Rogelio Esparza 
+1. Conocer la Webstory
+   * Acción:
+     A: Escucha a colegas hablar de ella en un congreso de Políticas Públicas para la educación. 
+     B: La encuentra mediante un buscador web. 
+   * Pensamiento:
+     A: "Oh, que dinámico. Lo voy a visitar"
+     B: "Esta investigación puede ser útil para las demandas de la ciudadanía"  
+   * Emociones: Curiosidad, alegría, interés. 
+2. Exploración 
+   * Acción:
+     - Entra al sitio web y pone especial atención a la sección sobre el SIMCE.
+   * Pensamiento:
+     - “Necesito datos comparativos para demostrarle a mis colegas cuáles son las habilidades que más se evalúan en el SIMCE y su relación son el nivel 
+     socioeconómico”  
+   * Emoción: Concentración.
+3. Interacción con los datos  
+   * Acción: Selecciona las estadísticas de la RM, compara las habilidades evaluadas con los resultados de las pruebas SIMCE en RM, y los porcentajes de rendición según nivel socioeconómico.  
+   * Pensamiento: “¿Cómo puedo potenciar estas habilidades en los diferentes sectores socioeconómicos?”  
    * Emoción: Entusiasmo.  
-4. Paso 4: Reflexión y uso de los datos  
-   * Acción: Extrae los datos para una presentación en su clase, destacando la importancia de la lectura.  
-   * Pensamiento: “Estos datos son una herramienta poderosa para mostrar la relación entre políticas de lectura y el rendimiento de los estudiantes”.  
-   * Emoción: Satisfacción, logro.  
-5. Paso 5: Evaluación del impacto  
-   * Acción: Implementa nuevas actividades basadas en el uso de bibliotecas y sigue el impacto en los resultados de sus estudiantes.  
-   * Pensamiento: “¿Estarán mejorando los resultados en base a estas actividades?”  
-   * Emoción: Esperanza, compromiso.
-
-Este user journey map muestra cómo un profesor puede utilizar nuestra webstory para obtener y aplicar información útil en su trabajo docente.
+4. Reflexión y uso de los datos  
+   * Acción: Extrae los datos para exponerlos en una reunión con miembros de la comisión de educación de su partido.   
+   * Pensamiento: “De esta manera podré proponer nuevas políticas públicas, que fortalezcan las habilidades medidas en el SIMCE y la lectura en el país”.   
+   * Emoción: Felicidad, satisfacción, útil.
+     
+Este user journey map muestra cómo un político puede utilizar nuestra webstory para obtener y aplicar información útil en los diálogos de su partido/comisión de educación.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**  
 
