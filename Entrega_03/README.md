@@ -1,4 +1,4 @@
-**Chile en Páginas: Análisis de Políticas de Fomento a la Lectura en Chile**  
+#Chile en Páginas: Análisis de Políticas de Fomento a la Lectura en Chile#
 En esta entrega nos enfocamos en el diseño estructural y la identidad visual de nuestra webstory “Chile en Páginas”. 
 
 **Estructura y Metodología de Trabajo**  
