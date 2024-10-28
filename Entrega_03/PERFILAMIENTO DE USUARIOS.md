@@ -1,7 +1,7 @@
 **Perfilamiento de dos usuarios.**
 
 **Rogelio Esparza**  
-**![][image1]**   
+![Rogelio Esparza](image/rogelio.png)
 **(imagen creada con IA \- Chat GTP 4o)**
 
 * **Información demográfica:** Hombre, 40 años, nacido en Santiago de Chile. Estudios universitarios completos en Derecho (abogado), con magíster en políticas públicas. Trabaja en la Fundación Cultural de Providencia, misma comuna en la que reside.   
