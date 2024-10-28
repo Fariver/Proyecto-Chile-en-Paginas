@@ -57,4 +57,5 @@ Cada página del sitio sigue una estructura clara con una jerarquía visual que 
   ![referencia 1](image/poncho1.png)
   ![referencia 2](image/poncho2.png)
   ![referencia 3](image/ponchos3.png)
-  
+
+
