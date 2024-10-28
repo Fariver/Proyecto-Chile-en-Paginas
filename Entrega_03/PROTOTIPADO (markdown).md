@@ -46,4 +46,12 @@ Los detalles específicos se ubican justo debajo, con bloques de texto. El gráf
 Cada página del sitio sigue una estructura clara con una jerarquía visual que destaca los elementos más importantes y una ubicación lógica de los elementos de la interfaz. El diseño asegura que el contenido sea accesible y fácil de seguir, permitiendo a los usuarios explorar los datos y comprender la relación entre las políticas de lectura y la comprensión lectora en Chile.
 
 **Compilado de antecedentes y referentes**
+- Maristas Chile: Es un sitio web de un sector educativo de Chile, cuya interfaz es simple y diseño sólido. Amigable con todos los dispositivos y de navegación intuitiva.
+  [Ver el sitio web de Maristas Chile]([URL](https://www.maristas.cl/))
+  ![referencia 1](image/maristas1.png)
+  ![referencia 2](image/maristas2.png)
+  ![referencia 3](image/maristas3.png)
+  
+- Maristas Chile: Es un sitio web de un sector educativo de Chile, cuya interfaz es simple y diseño sólido. Amigable con todos los dispositivos y de navegación intuitiva.
+
 
