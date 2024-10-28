@@ -30,7 +30,8 @@
   **Elisa Manríquez** 
 
 
-  [Elisa Manriquez](image/elisa.png)
+  ![Elisa Manríquez](image/elisa.png)
+
 
 
   **(imagen creada con IA \- Chat GTP 4o)**
