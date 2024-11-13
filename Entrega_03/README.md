@@ -12,4 +12,4 @@ El prototipo de baja fidelidad de la webstory Chile en Páginas se desarrolló c
 
 **Carrusel**: https://www.canva.com/design/DAGUmAKkwlA/P1Xaqs2j2gi2uAbuAEaDXw/edit
 
-**Video**:   
+**Video**:   https://youtu.be/JCvQXptcNnk
