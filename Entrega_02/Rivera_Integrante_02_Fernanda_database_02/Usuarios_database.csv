@@ -1,17 +1,17 @@
-﻿Regiones ;Personas socias activas;;;Regiones ;Personas socias activas
-Región de Arica y Parinacota;3015;;;Región Metropolitana;154248
-Región de Tarapacá;1458;;;Región de La Araucanía;30212
-Región de Antofagasta;8446;;;Región de Valparaíso;29511
-Región de Atacama;3754;;;Región de Los Lagos;21668
-Región de Coquimbo;13298;;;Región del Biobío;20599
-Región de Valparaíso;29511;;;Región de O’Higgins;15225
-Región Metropolitana;154248;;;Región del Maule;13735
-Región de O’Higgins;15225;;;Región de Coquimbo;13298
-Región del Maule;13735;;;Región de Los Ríos;12223
-Región de Ñuble;7639;;;Región de Antofagasta;8446
-Región del Biobío;20599;;;Región de Ñuble;7639
-Región de La Araucanía;30212;;;Región de Aysén;6921
-Región de Los Ríos;12223;;;Región de Atacama;3754
-Región de Los Lagos;21668;;;Región de Arica y Parinacota;3015
-Región de Aysén;6921;;;Región de Magallanes;2820
-Región de Magallanes;2820;;;Región de Tarapacá;1458
+Regiones ,Personas socias activas
+Región de Arica y Parinacota,3015
+Región de Tarapacá,1458
+Región de Antofagasta,8446
+Región de Atacama,3754
+Región de Coquimbo,13298
+Región de Valparaíso,29511
+Región Metropolitana,154248
+Región de O’Higgins,15225
+Región del Maule,13735
+Región de Ñuble,7639
+Región del Biobío,20599
+Región de La Araucanía,30212
+Región de Los Ríos,12223
+Región de Los Lagos,21668
+Región de Aysén,6921
+Región de Magallanes,2820
