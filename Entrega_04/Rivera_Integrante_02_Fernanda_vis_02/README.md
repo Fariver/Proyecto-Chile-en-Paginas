@@ -1,3 +1,4 @@
+## Entrega 04 - Visualizaciones
 Para esta entrega tuve utilicé las mismos datos que recopilé para la entrega 02, sobre el Servicio Nacional de Bibliotecas Públicas (SNBP). Pero corregí lo que estuvo mal en la anterior, junté los datos que tenía en solo un archivo y me fije que el csv estuviera delimitado por comas. 
 
 Luego comencé a trabajar en un notebook de Google Collab, primero con el archivo “SNBP_2023_database” para donde quería hacer una comparación de la cantidad de servicios de bibliotecas del SNBP por región. Aquí se responden las preguntas ¿Qué región tiene más bibliotecas? o ¿Es equitativo el acceso a la lectura en el territorio?. Con esa misma tabla se pueden crear más visualizaciones que respondan ¿En qué región hay más usuarios? o ¿en qué región se realizan más préstamos? Para ello considero importante considerar la población de cada región, aspecto que incluí en la breve crónica que acompaña la visualización. 
