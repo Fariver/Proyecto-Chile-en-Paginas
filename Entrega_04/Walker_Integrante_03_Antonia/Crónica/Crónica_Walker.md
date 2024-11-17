@@ -2,7 +2,7 @@
 
 <h3><b>Según los datos del Informe de Gestión del Servicio Nacional de Bibliotecas Públicas 2023, en 2020, los préstamos digitales aumentaron en alrededor de cien mil solicitudes, las personas socias activas en casi once mil, mientras que las inscripciones incrementaron en diez mil usuarios. Sin embargo, a cuatro años de la pandemia, los datos están volviendo a asimilarse a los de 2019.</b></h3>
 
-<img src="image_cro/bibliored.jpg" alt="BiblioRedes Gobierno de Chile" width="400" height="300">
+<img src="Image_Cro/bibliored.jpg" alt="BiblioRedes Gobierno de Chile" width="400" height="300">
 
 Una baja se observa en los datos del Servicio Nacional de Bibliotecas Públicas (SNBP), específicamente, en los servicios de BiblioRedes. Según el último informe publicado, año 2023, el organismo registra una caída en la solicitud de sus servicios con respecto a 2020, volviendo a cifras similares a las de 2019\. Un preocupante resultado, teniendo en consideración el aumento de la población en suelo nacional. 
 
