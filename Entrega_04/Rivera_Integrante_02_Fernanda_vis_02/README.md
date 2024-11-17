@@ -1,4 +1,4 @@
-## Entrega 04 - Visualizaciones
+## Entrega 04 - Visualizaciones - Fernanda Rivera Robledo
 Para esta entrega utilicé las mismos datos que recopilé para la entrega 02, sobre el Servicio Nacional de Bibliotecas Públicas (SNBP). Pero corregí lo que estuvo mal en la anterior, junté los datos que tenía en solo un archivo y me fije que el csv estuviera delimitado por comas. 
 
 Para hacer las visualizaciones atómicas habilité la lectura del lenguaje python y la ejecución de la librería Altair
