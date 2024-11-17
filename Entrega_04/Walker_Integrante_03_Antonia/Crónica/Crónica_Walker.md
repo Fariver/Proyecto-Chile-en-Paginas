@@ -17,5 +17,5 @@ De todos los datos disponibles en el SNPB sobre los servicios digitales, el indi
 
 Sin embargo, no todo es tan malo. Las capacitaciones *online* que ofrecía el SNBP, servicios de formación en diferentes áreas \- como solicitud de fondos concursables o clubes de literatura \- tuvieron su peor número en 2021, con una oferta de 996 instancias, muy por debajo de las 43.251 disponibles en 2019\. Durante 2023, las capacitaciones mostraron una recuperación del ejercicio, desarrollando 14.190 espacios, certificando a 7.273 personas capacitadas. 
 
-<img src="Image_Cro/gob.png" alt="Encuentro 2023 SNBP Gobierno de Chile" width="400" height="600">
+<img src="Image_Cro/gob.png" alt="Encuentro 2023 SNBP Gobierno de Chile" width="600" height="400">
 
