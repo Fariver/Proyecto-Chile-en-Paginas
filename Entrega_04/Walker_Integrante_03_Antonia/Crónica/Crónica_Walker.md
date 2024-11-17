@@ -1,4 +1,4 @@
-**Los retrocesos en la lectura de Chile, tras superar el Covid-19**
+<h1> **Los retrocesos en la lectura de Chile, tras superar el Covid-19** </h1>
 
 **Según los datos del Informe de Gestión del Servicio Nacional de Bibliotecas Públicas 2023, en 2020, los préstamos digitales aumentaron en alrededor de cien mil solicitudes, las personas socias activas en casi once mil, mientras que las inscripciones incrementaron en diez mil usuarios. Sin embargo, a cuatro años de la pandemia, los datos están volviendo a asimilarse a los de 2019\.** 
 
