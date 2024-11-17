@@ -16,4 +16,4 @@ También, incorporamos el espacio digital que ofrece el SNBP como variable a nue
 
 [Carrusel](https://github.com/Fariver/Proyecto-Chile-en-Paginas/blob/a2840a0d111d36acb8f418583e0cb36291902101/Entrega_04/CarruselGrupal_Entrega4.pdf)
 
-[Vídeo](https://github.com/Fariver/Proyecto-Chile-en-Paginas/blob/7202661ba33491cfdee8492185379084ae936979/Video.mp4)
+[Vídeo](https://github.com/Fariver/Proyecto-Chile-en-Paginas/blob/08a6e96ab8787a83c89eb766dc6385e624293e03/Entrega_04/video_entrega4.mp4)
