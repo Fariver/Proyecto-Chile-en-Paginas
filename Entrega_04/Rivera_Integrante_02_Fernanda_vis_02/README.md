@@ -26,4 +26,6 @@ Finalmente, el archivo “Préstamos_2021_2022_2023_database” tiene los prést
 
 Sí, va aumentando. Aquí considero relevante tomar en cuenta el contexto de pandemia en 2021 que pudo influir en que no se hayan hecho tantos préstamos de libros. Que en la mayoría de las regiones de 2021 a 2022 los préstamos se duplicaron.
 
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 Todas las visualizaciones fueron realizadas en un notebook de Google Colab usando las librerías de Altair el código está en el archivo llamado Altair.ipynb
