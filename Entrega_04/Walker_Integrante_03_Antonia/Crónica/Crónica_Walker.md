@@ -12,10 +12,10 @@ Desafortunadamente, la gestión estatal tampoco se ha preocupado de fortalecer l
 
 De todos los datos disponibles en el SNPB sobre los servicios digitales, el indicador que registra una mayor caída son las inscripciones, llegando a números más bajos que 2019\. El año del estallido social contó con 79.346 usuarios inscritos, para crecer a 89.403 en 2020, y caer estrepitosamente a 66.880 en 2023\. 
 
-<img src="Image_Cro/2019.png" alt="BiblioRedes Gobierno de Chile" width="700" height="600">
-<img src="Image_Cro/2023.png" alt="BiblioRedes Gobierno de Chile" width="700" height="600">
+<img src="Image_Cro/2019.png" alt="gráfico 2019" width="700" height="600">
+<img src="Image_Cro/2023.png" alt="gráfico 2023" width="700" height="600">
 
 Sin embargo, no todo es tan malo. Las capacitaciones *online* que ofrecía el SNBP, servicios de formación en diferentes áreas \- como solicitud de fondos concursables o clubes de literatura \- tuvieron su peor número en 2021, con una oferta de 996 instancias, muy por debajo de las 43.251 disponibles en 2019\. Durante 2023, las capacitaciones mostraron una recuperación del ejercicio, desarrollando 14.190 espacios, certificando a 7.273 personas capacitadas. 
 
-<img src="Image_Cro/gob.png" alt="BiblioRedes Gobierno de Chile" width="700" height="600">
+<img src="Image_Cro/gob.png" alt="Encuentro 2023 SNBP Gobierno de Chile" width="700" height="600">
 
