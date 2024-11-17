@@ -1,6 +1,6 @@
 Antonia Sofía Walker Jara
 
-Primero que todo, dejé de lado mis tablas de la entrega 02 y 03, e hice una nueva, enfocada en el espacio digital del Servicio Nacional de Bibliotecas Públicas (SNBP).  
+Primero que todo, dejé de lado mis tablas de la entrega 02, e hice una nueva, enfocada en el espacio digital del Servicio Nacional de Bibliotecas Públicas (SNBP).  
 Quería hacer la trazabilidad de personas usuarias activas, desde 2020 hasta 2023, pero, no habían datos suficientes, por lo que, para no hacer los mismos datos que mis compañeras, me pareció llamativo ilustrar BiblioRedes.   
 Conversamos con el equipo, y decidimos avanzar, considerando el espacio digital como una décimo séptima región. 
 
