@@ -15,4 +15,5 @@ Por otro lado, consideramos la relación entre datos demográficos por región y
 También, incorporamos el espacio digital que ofrece el SNBP como variable a nuestros análisis, ya que, como en el periodo de tiempo que estamos analizando pasamos por una pandemia nos dimos cuenta que los préstamos digitales aumentaron. Si bien, esta arista no se relaciona directamente con la hipótesis o pregunta principal del proyecto consideramos interesante tocar este punto en el trabajo. 
 
 [Carrusel](https://github.com/Fariver/Proyecto-Chile-en-Paginas/blob/a2840a0d111d36acb8f418583e0cb36291902101/Entrega_04/CarruselGrupal_Entrega4.pdf)
+
 [Vídeo]()
