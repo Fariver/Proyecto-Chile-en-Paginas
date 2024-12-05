@@ -71,3 +71,10 @@
     vegaEmbed("#vis-3", spec, embedOpt)
       .catch(error => showError(el, error));
   })(vegaEmbed);
+
+vegaEmbed("#vis-3", spec, { 
+    width: 800, /* Ajusta el ancho */
+    height: 400, /* Ajusta la altura */
+    autosize: { type: "fit", contains: "padding" } /* Escala dinámicamente */
+});
+
