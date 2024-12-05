@@ -167,20 +167,18 @@ color: #628B48;
     color: #628B48;
 }
 
+.scroll-container {
+    overflow-x: auto; /* Habilita el scroll horizontal */
+    overflow-y: hidden; /* Opcional: elimina el scroll vertical */
+    white-space: nowrap; /* Asegura que los contenidos no se envuelvan */
+    width: 100%; /* Usa todo el ancho disponible */
+}
+
 #vis-3 {
-    width: 100%; /* Ocupa el ancho completo de su contenedor */
-    max-width: 1200px; /* Limita el ancho máximo */
-    height: auto; /* Ajusta la altura automáticamente */
-    background-color: #885A89; /* Color de fondo */
-    margin: 0 auto; /* Centrado horizontal */
-
-    display: flex; /* Para centrar el contenido */
-    justify-content: center;
-    align-items: center;
-    overflow-x: hidden; /* Oculta cualquier desbordamiento horizontal */
+    width: 1200px; /* Ajusta según el tamaño de tu gráfico */
+    height: 800px; /* Mantén la altura si es necesaria */
+    margin: 0 auto; /* Centrado opcional del contenido */
+    display: inline-block; /* Asegura que ocupe solo el espacio necesario */
 }
 
-#vis-3 > * { /* Aplica ajustes al contenido interno */
-    max-width: 100%; /* Limita el ancho del gráfico */
-    height: auto; /* Ajusta la altura proporcionalmente */
-}
+
