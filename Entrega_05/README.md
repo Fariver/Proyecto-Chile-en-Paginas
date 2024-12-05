@@ -27,6 +27,22 @@ Buscamos abordar la accesibilidad al añadir los datos de bibliotecas públicas 
 
 También queremos identificar las regiones con mayor interés en el uso del servicio, con el número de préstamos y personas socias de las bibliotecas públicas por región.
 
+Aquí está lo que hizo cada una para esta entrega:
+
+| Elemento | Gabriela López | Fernanda Rivera | Antonia Walker |
+| ----- | ----- | ----- | ----- |
+| Readme  | x | x | x |
+| Propuesta de historia |  |  | x |
+| Propuesta de narrativa |  | x  |  |
+| Propuesta de visualizaciones atómicas | x |  |  |
+| Gráficos en con Google Colab |  | x |  |
+| Gráficos con flourish | x | x | x |
+| Comentarios crónica textos |  |  | x |
+| Decisiones de elementos visuales | x | x |  |
+| index.html |  | x |  |
+| style.css |  | x |  |
+| script.js |  | x |  |
+
 [Carrusel](https://github.com/Fariver/Proyecto-Chile-en-Paginas/blob/0b04c6d6790c62eab86810ac0042e18da91f2f9e/Entrega_05/Readme/presentacion_chile_en_p%C3%A1ginas.pdf)
 
 Video: 
