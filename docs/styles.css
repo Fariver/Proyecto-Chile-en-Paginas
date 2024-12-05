@@ -168,19 +168,15 @@ color: #628B48;
 }
 
 #vis-3 {
-    width: 100%; /* Ocupa el ancho completo de su contenedor */
-    max-width: 1200px; /* Limita el ancho máximo */
-    height: auto; /* Ajusta la altura automáticamente */
-    background-color: #885A89; /* Color de fondo */
-    margin: 0 auto; /* Centrado horizontal */
+    width: 100%;
+    max-width: 100%; /* Permite que ocupe todo el ancho disponible */
+    height: auto;
+    background-color: #885A89;
+    margin: 0 auto;
 
-    display: flex; /* Para centrar el contenido */
+    overflow-x: auto; /* Agrega un scroll horizontal si es necesario */
+    display: flex;
     justify-content: center;
     align-items: center;
-    overflow-x: hidden; /* Oculta cualquier desbordamiento horizontal */
 }
 
-#vis-3 > * { /* Aplica ajustes al contenido interno */
-    max-width: 100%; /* Limita el ancho del gráfico */
-    height: auto; /* Ajusta la altura proporcionalmente */
-}
