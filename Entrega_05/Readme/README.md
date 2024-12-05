@@ -3,7 +3,7 @@
 
 Hipótesis: No, los chilenos no se interesan por el SNBP, ya que un mínimo de la población nacional, y a niveles regionales, es una persona socia activa del sistema. 
 
-nuestra investigación recopiló datos como: 
+En nuestra investigación recopilamos datos como: 
 
 Proveniente de los Informes de gestión del SNBP (2021, 2022, 2023), son procesados, de fuente abierta, estructurado y de alcance cuantitativo.
 * [Informe de Gestión 2021](https://www.bibliotecaspublicas.gob.cl/sites/www.bibliotecaspublicas.gob.cl/files/2022-04/SNBP_informe2021_VF.pdf)  
