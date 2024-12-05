@@ -14,6 +14,16 @@ Proveniente de la página del SNBP [“Busca tu biblioteca"](https://www.bibliot
 
 Variables: Población total Censo 2023-24, personas socias activas, porcentaje de préstamos 2023, préstamos totales, bibliotecas por todo Chile, regiones, capacitaciones, inscripciones, presupuesto para material digital. 
 
+Mirada periodística: 
+
+Titular: Chile en páginas: una radiografía del acceso público al Servicio Nacional de Bibliotecas Públicas
+
+Conflicto: El Servicio Nacional de Bibliotecas Públicas facilita el acceso universal a la lectura, además de prestar servicios, sin embargo, un mínimo de la población chilena es una persona socia activa dentro del sistema. 
+
+Personaje Principal: Servicio Nacional de Bibliotecas Públicas.
+
+Foco: Retratar la realidad del SNBP a nivel nacional, el atractivo que tiene en cada región y el comportamiento que tienen las personas socias activas dentro de él, reflejando el desinterés generalizado en Chile. 
+
 Buscamos responder: ¿Qué es el SNBP?¿Qué dimensiones tiene el SNBP?¿En qué regiones se lee más?¿Cuál es la cantidad de personas socias activas por habitantes en Chile?¿Cómo afectó la pandemia al SNBP?¿Qué cambios ha tenido el servicio durante los últimos años?¿Qué políticas públicas existen en torno a la lectura?¿Hay interés por el acceso público a la lectura?
 
 Además, nuestra investigación también está enfocada en lo demográfico es por esto, que acudimos a los datos más recientes del Instituto Nacional de Estadísticas, ingresamos a [proyecciones del año 2023 y 2024](https://www.ine.gob.cl/docs/default-source/proyecciones-de-poblacion/cuadros-estadisticos/base-2017/ine_estimaciones-y-proyecciones-2002-2035_base-2017_region_area_tabulados.xlsx?sfvrsn=e9bd6edf_6), para tener un idea de la realidad de cada región o provincia. 
