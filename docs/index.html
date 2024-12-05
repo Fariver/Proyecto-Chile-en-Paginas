@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="C:\Users\fer\Downloads\docs (proyecto)\Logo Chile en Páginas.png" type="image/gif"> 
+<link rel="C:\Users\fer\Downloads\docs (proyecto)\JavaScript.js" 
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Markazi+Text:wght@400..700&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" type="text/css" href="C:\Users\fer\Downloads\docs (proyecto)\estilo.css">
+<!-- Bibliotecas por región (gráfico morado)-->
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@4.17.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@6"></script>
+
+  <!-- Gráfico Bibliotecas por región -->
+
+<!-- Préstamos por región -->
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@4.17.0"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@6"></script>
+
+<!-- Socios x préstamos -->
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@4.17.0"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@6"></script>
+
+<title>Chile en Páginas</title>
+</head>
+<body>
+    <header>
+        <div class="contenedor_logo">
+            <script src="js/jquery-3.7.1.min.js" type="text/javascript"></script>
+            <img src="C:\Users\fer\Downloads\docs (proyecto)\logo.gif" id="logo1" alt="Logo">
+
+    </header>
+    <section id="intro">
+        <h1 class="titulo_mayor"> <span id="chile-en-paginas">CHILE EN PÁGINAS</span>: una <span>radiografía</span> del acceso público a la literatura 
+           
+        </h1>
+
+        <p class="párrafos" id="bajada">Los datos entregados en los informes de gestión anuales demuestran la realidad del acceso universal a la lectura. Para el año 2023, solamente 64.634 habitantes eran personas socias activas, de un total de 19.960.889 personas en territorio nacional, según datos del INE. A raíz de esto, vale la pena preguntarse:</p>
+      
+        <h3 class="titulos">¿Los chilenos se interesan por el acceso al <span>Servicio Nacional de Bibliotecas Públicas</span> (SNBP)?</h3>
+        <p id="links_rrss">Por 
+            <a href="https://www.instagram.com/gabrielalpzt/" target="_blank">Gabriela López</a>, 
+            <a href="https://www.instagram.com/fariverrrr/" target="_blank">Fernanda Rivera</a> y
+            <a href="https://www.instagram.com/antoniawalker.j/" target="_blank">Antonia Walker</a>
+        </p>
+
+            <p class="párrafos">Según las proyecciones del Instituto Nacional de Estadísticas (INE), este 2024 la región Metropolitana (RM), cuenta alrededor de <strong>ocho millones y medio de habitantes</strong>. La metrópolis, se lleva la corona en cantidad de servicios de bibliotecas públicas: son <strong>89 inmediaciones</strong> a las que pueden acceder las personas socias. 
+            </p>
+            <!-- Gráfico bibliotecas_snbp_por_region-->
+            <div id="vis"></div>
+
+        <p class="párrafos">No es de extrañar que región capital se posicione en el número uno del podio, pues según la Subsecretaría Regional de Desarrollo Regional y Administrativo (Subdere), el <strong>40,1% de la población se concentra en Santiago</strong>.
+        </p>
+
+        <p class="párrafos">Sin embargo, las estimaciones demuestran que - redondeando el número- en la RM hay solo <span>una biblioteca pública cada 100 mil habitantes</span>, mientras que, en 
+            la <strong>Región de Aysén</strong>, cuya estimación de población 2024 rodea los <strong>109 mil individuos</strong>, <span>posee la mayor cantidad de bibliotecas públicas del país</span>: <strong>19,39 por cada 100 mil 
+                habitantes</strong>. Este fenómeno se produce por la cantidad de localidades que existen en cada región, y la interconectividad que hay entre las comunas, pues en <span>Aysén</span>, <strong>nueve de los diez</strong> 
+                edilicios son predominantemente rurales, mientras que la RM posee solo <strong>cinco</strong> de aquella categoría, que el Gobierno Regional caracteriza con una <span id="amarillo"><strong>“alta conectividad vial”</strong></span>.
+
+        </p><div class="flourish-embed flourish-hierarchy" data-src="visualisation/20628253"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/20628253/thumbnail" width="100%" alt="hierarchy visualization" /></noscript></div>
+
+
+        <p class="párrafos">A la fecha, el <span>Servicio Nacional Bibliotecas Públicas (SNBP)</span> cuenta con <strong>420 inmediaciones a lo largo del país</strong>. Su creación fue en 1993, cuando el Gobierno de Chile decidió que la Dirección de Bibliotecas, Archivos y Museos (DIBAM) debía tener una nueva rama, cuyo fin era -  y es -  <span id="amarillo"><strong>promover el acceso universal a la lectura</strong></span>.
+        </p>
+        
+        <p class="párrafos">Si bien, desde el siglo XIX existían las bibliotecas de uso público, no había un sistema que las regulara. La primera problemática detectada fue que el acceso era para personas pertenecientes a una comunidad definida, por lo que, aquellas localidades que no contaban con una biblioteca propia, se quedaban sin la oportunidad de acceder a la literatura.
+
+        </p>
+
+        <p class="párrafos">Hoy en día, eso no sucede, pues en la actualidad, dichas <span>420 inmediaciones</span> se distribuyen a lo largo del país, contando cada región con establecimientos del SNBP. Además,el servicio cuenta con un sistema en red que <strong>permite el acceso a ellas en cualquier parte del país</strong>. Por ejemplo, si estás inscrito en Ñuñoa y viajas a Frutillar, podrás acceder a la biblioteca pública más cercana y seguir disfrutando de la lectura. 
+
+        </p>
+<!-- Mapa de Chile-->
+        <div class="flourish-embed flourish-map" data-src="visualisation/20529771"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/20529771/thumbnail" width="100%" alt="map visualization" /></noscript></div>
+
+        <h2 class="titulos">SNBP en una época de transformaciones</h2>
+        
+
+        <p class="párrafos">Durante el último periodo, la sociedad vivió cambios estructurales. Unos impulsados por agentes sociales y expuestos en el estallido social, otros, cuando el mundo se paralizó por el Covid-19.
+
+            Al igual que muchas entendidas, las bibliotecas públicas también se enfrentaron a una serie de cambios y variaciones; como  <span>cantidad de solicitudes de préstamos que recibían cada año, las personas socias activas, el número de personas capacitadas</span>; en fin, todo en medio de la revolución de un mundo convulso. 
+            
+            El <strong>SNBP</strong> tuvo que dar fuerza a <strong>BPDigital</strong> en la pandemia. Se trata de la red que dispuso el gobierno de Chile, <span id="amarillo"><strong>para que la lectura no conociese fronteras físicas</strong></span> <a href="https://www.bpdigital.cl" target="_blank">www.bpdigital.cl</a>.
+            
+        </p>
+
+        <p class="párrafos"> Los datos disponibles más recientes, apuntan a que hasta 2023 la BPDigital contaba veinte mil títulos distintos disponibles, que podían disfrutar las <strong>64.634 personas socias activas, de un universo de 19.960.889 habitantes en Chile</strong>. En 2019, <strong>75.172 de 17.574.003 personas</strong>, eran usuarios registrados en el SNBP, por lo que es concluyente que tras la pandemia, <span id="verde"><strong>las personas socias activas han disminuido en comparación a la población total
+        </strong></span>. 
+
+        <!-- Gráfico Préstamos Online-->
+        <div class="flourish-embed flourish-chart" data-src="visualisation/20536154"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/20536154/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
+        </p>
+
+        <p class="párrafos">Si bien <span>BPDigital (Biblioteca Pública Digital) fue creado en 2013</span>, los informes de gestión muestran información desde 2021 en adelante, pues, durante la pandemia por COVID - 19, la red comenzó a tomar protagonismo en el <strong>SNBP</strong>. Como muchos expertos señalaban en medio del coronavirus, <span id="amarillo"><strong>la virtualidad llegó para quedarse</strong></span>.
+        </p>
+
+        <p class="párrafos">En la misma línea, es importante mencionar que el porcentaje de préstamos online del SNBP aumentó considerablemente en 2021, pues  <span>52% del total nacional fue de forma digital</span>. Con la apertura paulatina de 2022 a la normalidad, <strong>la cifra disminuyó a 29%</strong>, lo que demuestra que <span id="amarillo"><strong>el material físico es la manera favorita de leer de los chilenos</strong></span>.
+        </p>
+
+        <p class="párrafos">Por este último punto, es posible hallar cauce a la disminución que ha tenido la inversión de presupuesto para la red, a pesar del aumento de personas socias activas, no obstante, esta diferencia es mínima. 
+            
+        </p>
+
+        <h3 class="titulos">Educar, la <span id="verde"><strong>misión</strong></span> principal de los libros</h3>
+
+            <p class="párrafos">Junto con facilitar material de lectura, el SNBP se preocupa de realizar distintas actividades de encuentro para la comunidad, como club de lectura o talleres. Una de las instancias más destacadas son las capacitaciones que ofrecen en distintas áreas, abarcando desde idiomas, hasta liderazgo.
+            </p>
+
+            <p class="párrafos">Durante la pandemia, las capacitaciones y las personas capacitadas por el SNBP <strong>disminuyeron</strong>, no obstante, el trabajo continuó a través de la virtualidad, logrando capacitar a <span id="verde"><strong>más de seis mil personas del mundo de socios activoss</strong></span>, entre 2020 y 2022. 
+        </p>
+       
+        <!-- Gráfico Personas socias activas, capacitaciones y número de personas capacitadas -->
+        <div class="flourish-embed flourish-chart" data-src="visualisation/20533912"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/20533912/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
+
+        <h3 class="titulos"> Lecturas generales</h3>
+       
+        <p class="párrafos">Las proyecciones realizadas por el <strong>Instituto Nacional de Estadísticas (INE)</strong> reflejan una realidad preocupante en el acceso a la lectura.  <span>A pesar de que los préstamos por región han aumentado en estos tres años, sigue siendo un mínimo de la población el que accede al SNBP</span>.
+    </p>
+    <!-- Gráfico Préstamos por región -->
+    <div id="vis-2"></div>
+   
+    <p class="párrafos">Múltiples informes aluden al envejecimiento de Chile, por lo que es fácil suponer que la población residente en el territorio es en su mayoría adulta. Asumiendo que pueden leer, es alarmante pensar que menos de un tercio de la población de cada región es socio activo de las bibliotecas públicas.
+</p>
+
+<!-- Socios x préstamos -->
+<div id="vis-3"></div>
+
+<p class="párrafos">Los beneficios en torno a la lectura, si bien son territorialmente equitativos, existe un bajísimo interés de parte de la población en formar parte de la comunidad del SNBP, por lo que, además de políticas públicas que aseguren el acceso universal a la lectura, es de fundamental importancia acompañarlo de un plan contundente de difusión.
+</p>
+
+<p class="párrafos">Justificando lo anterior, en su sitio web, el SNBP, establece que su objetivo mediante el Plan Nacional de Lectura es “promover la formación de una sociedad de lectores y lectoras, en la que se valore la lectura como instrumento que permite a las personas mejorar su nivel educativo, desarrollar su creatividad, sensibilidad y pensamiento crítico”. En su rol como garante de la educación, el estado se compromete con  la promoción de estos servicios abiertos a todas y todos los habitantes de esta tierra, con el fin de crear hábitos de lectura a nivel nacional. 
+</p>     
+
+<!-- -->
+        
+<h1 class="titulos"id="Cita">"El regalo más grande es la pasión por la lectura. Es barato, consuela, excita, te da el conocimiento del mundo y la experiencia de una amplia clase. Es una iluminación moral" 
+</h1>
+<h1 class="titulos"id="nombre">- Elizabeth Hardwick</h1>
+
+
+
+<footer>
+   © Todos los derechos reservados. Chile en Páginas. Gabriela López, Fernanda Rivera y Antonia Walker.
+</footer>
+ 
+
+
+
+
+
+
+
+            <script src="JavaScript.js" defer></script> <!-- Esto linkea el JavaScript NO BORRAR -->
+
+
+        </body>
+
+
+
+           
