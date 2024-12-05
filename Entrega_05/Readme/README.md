@@ -1,17 +1,5 @@
-****¿Por qué Chile en Páginas?****
+*****¿Los chilenos se interesan por el acceso al Servicio Nacional de Bibliotecas Públicas?****
 
-La lectura nos llamaba la atención por el amor que sentimos hacia los libros. Si bien nosotras tenemos acceso a la literatura por las facilidades que nos brindó la vida, quisimos observar qué sucede con el acceso a los libros en el sistema público: ¿Hay políticas públicas destinada a ello?¿Cómo es el servicio a nivel nacional?¿Cuáles son las dimensiones que cubre?... 
-
-Descubrimos que existe el Sistema Nacional de Bibliotecas Públicas y que hay una política pública que se llama “Plan Nacional de lectura”, cuyo objetivo es fomentar los hábitos de lectura en los habitantes del país, desde temprana edad.
-
-A partir de ello, primero decidimos que íbamos a describir al lector promedio en Chile, a través de los datos que entregaba el sistema. Vimos que estábamos desorientadas, entonces tuvimos que cambiar.
-
-Después nos planteamos describir los hábitos de lectura a nivel nacional ¿Pero cómo hacer eso con datos predominantemente cuantitativos? No sabíamos cómo enfocarlo. 
-
-Pero tras investigar los datos que proporcionan los Informes de Gestión del SNBP, concluimos que el acceso a la lectura en Chile era inequitativo, y erróneamente lo atribuímos al Estado. Sin embargo, tras el análisis a nuestra propuesta, y con el apoyo de las profesoras, concluimos que hay un desinterés en el SNBP por parte de la población, ya que el Estado entrega las herramientas y se interesa por mejorarlas. 
-
-***Especificaciones del reportaje****
-Pregunta: ¿Los chilenos se interesan por el acceso al Servicio Nacional de Bibliotecas Públicas?
 
 Hipótesis: No, los chilenos no se interesan por el SNBP, ya que un mínimo de la población nacional, y a niveles regionales, es una persona socia activa del sistema. 
 
