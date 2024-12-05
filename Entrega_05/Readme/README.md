@@ -1,7 +1,8 @@
-*****Chile en páginas: una radiografía del acceso público al Servicio Nacional de Bibliotecas Públicas*****
+****Chile en páginas: una radiografía del acceso público al Servicio Nacional de Bibliotecas Públicas****
 
 En esta entrega modificamos datos, gráficos y mejoramos la narrativa de nuestro reportaje.  
 La pregunta que tratamos de responder es ¿Es el acceso a la lectura del Servicio Nacional de Bibliotecas Públicas (SNBP) inequitativo? Pero esta vez, nos enfocaremos en el acceso y el interés, es por esto que la siguiente pregunta es la más adecuada:  
+
 **¿Los chilenos se interesan por el acceso al Servicio Nacional de Bibliotecas Públicas?**
 
 Hemos recopilado datos de los últimos y únicos tres informes de gestión del Servicio Nacional de Bibliotecas Públicas:
