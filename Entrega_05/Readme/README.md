@@ -1,5 +1,5 @@
-*****¿Los chilenos se interesan por el acceso al Servicio Nacional de Bibliotecas Públicas?****
 
+****¿Los chilenos se interesan por el acceso al Servicio Nacional de Bibliotecas Públicas?****
 
 Hipótesis: No, los chilenos no se interesan por el SNBP, ya que un mínimo de la población nacional, y a niveles regionales, es una persona socia activa del sistema. 
 
