@@ -1,0 +1,186 @@
+html {
+    scroll-behavior: smooth;
+}
+body {
+    font-family: "Markazi Text", sans-serif;
+    margin: 0;
+    padding: 0;
+    
+}
+header {
+    background-color: #885A89;
+    color: #fff;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+}
+
+.contenedor_logo {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+}
+.titulo_mayor {
+    text-align: center;
+    font-size: 50px;
+}
+#chile-en-paginas {
+    color: #628B48;
+}
+
+.titulos {
+    text-align: center;
+    font-size: 35px;
+}
+
+#links_rrss {
+    text-align: center;
+    font-size: large;
+}
+
+span {
+    font-size: 1em;
+    color: #3B8EA5;
+    font-weight:bold;
+}
+.párrafos {
+    margin: 25px 250px 25px 250px;
+    text-align:justify;
+    font-size: x-large;
+    line-height: 25px
+}
+
+#bajada {
+    font-weight: bold
+  
+}
+#vis {
+    flex: 1;
+    margin: 0 10px;
+}
+
+#vis {
+    width: 100%; /* ancho del div */
+    height: 600px; /* altura */
+    background-color: #885A89; /* color de fondo */
+
+    /* Centrar el div en la página */
+    margin: 0 auto; /* Centrado horizontal */
+    display: flex; /*  Flexbox para centrar verticalmente */
+    justify-content: center; /* Centrado horizontal dentro del div */
+    align-items: center; /* Centrado vertical dentro del div */
+    
+    /* Otras propiedades para mejorar la visibilidad */
+    border: 1px solid #ccc; /* Opcional: un borde para verlo mejor */
+}
+
+#vis-2 {
+    width: 100%; /* Ajusta el ancho del div */
+    height: 800px; /* Ajusta la altura */
+    background-color: #885A89; /* Un color de fondo para poder verlo */
+
+    /* Centramos el div en la página */
+    margin: 0 auto; /* Centrado horizontal */
+    display: flex; /* Usamos Flexbox para centrarlo verticalmente */
+    justify-content: center; /* Centrado horizontal dentro del div */
+    align-items: center; /* Centrado vertical dentro del div */
+    
+    /* Otras propiedades para mejorar la visibilidad */
+    border: 1px solid #ccc; /* Opcional: un borde para verlo mejor */
+}
+
+#RM {
+    color: #628B48; /* Cambia este color al que desees */
+   
+}
+
+#RM-2 {
+    color: #885A89;
+}
+#tarapaca {
+    color: #E3B23C;
+}
+
+#tarapaca-2 {
+    color:#F15946 ;
+}
+#valparaiso {
+    color: #628B48;
+}
+
+#magallanes {
+    color: #885A89;
+}
+#arica {
+    color: #3B8EA5;
+}
+#interes {
+    font-size: 45px;
+}
+
+#ñuble {
+    color: #E3B23C;
+}
+
+#PIB {
+    color: #F15946;
+}
+#Cita {
+    color: #3B8EA5;
+    font-style: italic;
+}
+#nombre {
+    font-style: italic;
+}
+
+footer {
+    background-color: #885A89; /* Color de fondo */
+    text-align: center;       /* Centra el contenido */
+    padding: 10px;            /* Espaciado interno */
+    font-size: 20px;          /* Tamaño de fuente */
+    border-top: 1px solid #ccc; /* Línea superior */
+    color: #fff;
+  }
+
+#menos {
+    color: #E3B23C;
+}
+
+.parrafos {
+    margin: 25px 250px;
+    text-align: justify;
+    font-size: x-large;
+    line-height: 25px;
+    font-weight: normal; /* Asegúrate de que no esté en negrita */
+}
+#inequitativo {
+color: #628B48;
+    font-weight: bold; /* Si quieres que sea negrita */
+}
+
+#amarillo {
+    color: #E3B23C;
+}
+
+#verde {
+    color: #628B48;
+}
+
+#vis-3 {
+    width: 100%; /* Ocupa el ancho completo de su contenedor */
+    max-width: 1200px; /* Limita el ancho máximo */
+    height: auto; /* Ajusta la altura automáticamente */
+    background-color: #885A89; /* Color de fondo */
+    margin: 0 auto; /* Centrado horizontal */
+
+    display: flex; /* Para centrar el contenido */
+    justify-content: center;
+    align-items: center;
+    overflow-x: hidden; /* Oculta cualquier desbordamiento horizontal */
+}
+
+#vis-3 > * { /* Aplica ajustes al contenido interno */
+    max-width: 100%; /* Limita el ancho del gráfico */
+    height: auto; /* Ajusta la altura proporcionalmente */
+}
