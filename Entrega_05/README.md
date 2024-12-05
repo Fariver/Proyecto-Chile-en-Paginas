@@ -36,7 +36,7 @@ Aquí está lo que hizo cada una para esta entrega:
 | Propuesta de visualizaciones atómicas | x |  |  |
 | Gráficos en con Google Colab |  | x |  |
 | Gráficos con flourish | x | x | x |
-| Comentarios crónica textos |  |  | x |
+| Comentarios crónica textos |x |  | x |
 | Decisiones de elementos visuales | x | x |  |
 | index.html |  | x |  |
 | style.css |  | x |  |
