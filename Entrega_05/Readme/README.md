@@ -12,23 +12,30 @@ Pero tras investigar los datos que proporcionan los Informes de Gestión del SNB
 
 ***Especificaciones del reportaje****
 Pregunta: ¿Los chilenos se interesan por el acceso al Servicio Nacional de Bibliotecas Públicas?
+
 Hipótesis: No, los chilenos no se interesan por el SNBP, ya que un mínimo de la población nacional, y a niveles regionales, es una persona socia activa del sistema. 
+
 Datos: 
+
 Proveniente de los Informes de gestión del SNBP (2021, 2022, 2023), son procesados, de fuente abierta, estructurado y de alcance cuantitativo.
+
 Proveniente de la página del SNBP “Busca tu biblioteca”, son procesados, de fuente abierta, no estructurados y de alcance cualitativo. 
+
 Variables: Población total Censo 2017, personas socias activas, porcentaje de préstamos 2023, préstamos totales, bibliotecas por todo Chile, regiones, capacitaciones, inscripciones, presupuesto para material digital. 
+
 Mirada periodística: 
+
 Titular: Chile en páginas: una radiografía del acceso público al Servicio Nacional de Bibliotecas Públicas
+
 Conflicto: El Servicio Nacional de Bibliotecas Públicas facilita el acceso universal a la lectura, además de prestar servicios, sin embargo, un mínimo de la población chilena es una persona socia activa dentro del sistema. 
+
 Personaje Principal: Servicio Nacional de Bibliotecas Públicas.
+
 Foco: Retratar la realidad del SNBP a nivel nacional, el atractivo que tiene en cada región y el comportamiento que tienen las personas socias activas dentro de él, reflejando el desinterés generalizado en Chile. 
+
 Buscamos responder: ¿Qué es el SNBP?¿Qué dimensiones tiene el SNBP?¿En qué regiones se lee más?¿Cuál es la cantidad de personas socias activas por habitantes en Chile?¿Cómo afectó la pandemia al SNBP?¿Qué cambios ha tenido el servicio durante los últimos años?¿Qué políticas públicas existen en torno a la lectura?¿Hay interés por el acceso público a la lectura?
-En esta entrega modificamos datos, gráficos y mejoramos la narrativa de nuestro reportaje.  
-La pregunta que tratamos de responder es ¿Es el acceso a la lectura del Servicio Nacional de Bibliotecas Públicas (SNBP) inequitativo? Pero esta vez, nos enfocaremos en el acceso y el interés, es por esto que la siguiente pregunta es la más adecuada:  
 
-**¿Los chilenos se interesan por el acceso al Servicio Nacional de Bibliotecas Públicas?**
-
-Hemos recopilado datos de los últimos y únicos tres informes de gestión del Servicio Nacional de Bibliotecas Públicas:
+En esta entrega, modificamos datos, gráficos y mejoramos la narrativa de nuestro reportaje.  Hemos recopilado datos de los últimos y únicos tres informes de gestión del Servicio Nacional de Bibliotecas Públicas:
 
 * [Informe de Gestión 2021](https://www.bibliotecaspublicas.gob.cl/sites/www.bibliotecaspublicas.gob.cl/files/2022-04/SNBP_informe2021_VF.pdf)  
 * [Informe de gestión 2022](https://www.bibliotecaspublicas.gob.cl/sites/www.bibliotecaspublicas.gob.cl/files/2023-04/SNBP_informe2022_1503_0.pdf)  
