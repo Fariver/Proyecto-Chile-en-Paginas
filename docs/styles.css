@@ -178,6 +178,7 @@ color: #628B48;
     width: 1200px; /* Ajusta según el tamaño de tu gráfico */
     height: 800px; /* Mantén la altura si es necesaria */
     margin: 0 auto; /* Centrado opcional del contenido */
+    display: inline-block; /* Asegura que ocupe solo el espacio necesario */
 }
 
 
