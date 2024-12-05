@@ -167,16 +167,17 @@ color: #628B48;
     color: #628B48;
 }
 
-#vis-3 {
-    width: 100%;
-    max-width: 100%; /* Permite que ocupe todo el ancho disponible */
-    height: auto;
-    background-color: #885A89;
-    margin: 0 auto;
-
-    overflow-x: auto; /* Agrega un scroll horizontal si es necesario */
-    display: flex;
-    justify-content: center;
-    align-items: center;
+.scroll-container {
+    overflow-x: auto; /* Habilita el scroll horizontal */
+    overflow-y: hidden; /* Opcional: elimina el scroll vertical */
+    white-space: nowrap; /* Asegura que los contenidos no se envuelvan */
+    width: 100%; /* Usa todo el ancho disponible */
 }
+
+#vis-3 {
+    width: 1200px; /* Ajusta según el tamaño de tu gráfico */
+    height: 800px; /* Mantén la altura si es necesaria */
+    margin: 0 auto; /* Centrado opcional del contenido */
+}
+
 
