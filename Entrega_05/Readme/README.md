@@ -38,8 +38,6 @@ Foco: Retratar la realidad del SNBP a nivel nacional, el atractivo que tiene en 
 
 Buscamos responder: ¿Qué es el SNBP?¿Qué dimensiones tiene el SNBP?¿En qué regiones se lee más?¿Cuál es la cantidad de personas socias activas por habitantes en Chile?¿Cómo afectó la pandemia al SNBP?¿Qué cambios ha tenido el servicio durante los últimos años?¿Qué políticas públicas existen en torno a la lectura?¿Hay interés por el acceso público a la lectura?
 
-En esta entrega, modificamos datos, gráficos y mejoramos la narrativa de nuestro reportaje.  Hemos recopilado datos de los últimos y únicos tres informes de gestión del Servicio Nacional de Bibliotecas Públicas:
-
 Además, nuestra investigación también está enfocada en lo demográfico es por esto, que acudimos a los datos más recientes del Instituto Nacional de Estadísticas, ingresamos a [proyecciones del año 2023 y 2024](https://www.ine.gob.cl/docs/default-source/proyecciones-de-poblacion/cuadros-estadisticos/base-2017/ine_estimaciones-y-proyecciones-2002-2035_base-2017_region_area_tabulados.xlsx?sfvrsn=e9bd6edf_6), para tener un idea de la realidad de cada región o provincia. 
 
 Buscamos abordar la accesibilidad al añadir los datos de bibliotecas públicas por región, utilizando las variables de número de bibliotecas por región y la cantidad de habitantes de esa región según la proyección del Censo 2023\.
