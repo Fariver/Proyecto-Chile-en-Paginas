@@ -3,7 +3,7 @@
 
 Hipótesis: No, los chilenos no se interesan por el SNBP, ya que un mínimo de la población nacional, y a niveles regionales, es una persona socia activa del sistema. 
 
-Datos: 
+nuestra investigación recopiló datos como: 
 
 Proveniente de los Informes de gestión del SNBP (2021, 2022, 2023), son procesados, de fuente abierta, estructurado y de alcance cuantitativo.
 * [Informe de Gestión 2021](https://www.bibliotecaspublicas.gob.cl/sites/www.bibliotecaspublicas.gob.cl/files/2022-04/SNBP_informe2021_VF.pdf)  
@@ -13,7 +13,6 @@ Proveniente de los Informes de gestión del SNBP (2021, 2022, 2023), son procesa
 Proveniente de la página del SNBP [“Busca tu biblioteca"](https://www.bibliotecaspublicas.gob.cl/buscar-biblioteca), son procesados, de fuente abierta, no estructurados y de alcance cualitativo. 
 
 Variables: Población total Censo 2023-24, personas socias activas, porcentaje de préstamos 2023, préstamos totales, bibliotecas por todo Chile, regiones, capacitaciones, inscripciones, presupuesto para material digital. 
-
 
 Buscamos responder: ¿Qué es el SNBP?¿Qué dimensiones tiene el SNBP?¿En qué regiones se lee más?¿Cuál es la cantidad de personas socias activas por habitantes en Chile?¿Cómo afectó la pandemia al SNBP?¿Qué cambios ha tenido el servicio durante los últimos años?¿Qué políticas públicas existen en torno a la lectura?¿Hay interés por el acceso público a la lectura?
 
