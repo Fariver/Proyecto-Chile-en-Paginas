@@ -6,10 +6,10 @@ Lo que si intentamos hacer, y funcionó, fue hacer una visualización del mapa d
 
 De igual manera, dejamos el html del mapa creado en Colab dentro de la carpeta Propuesta_visualización_atómicas/Visualizaciones el archivo se llama Mapa_Chile.html
 
-Para esta entrega se mantienen las mismas tareas por integrante, exceptuando el Handout. 
+Aquí está lo que hizo cada una para esta entrega:
 | Elemento | Gabriela López | Fernanda Rivera | Antonia Walker |
 | ----- | ----- | ----- | ----- |
-| Readme  | x | x | x |
+| Readme  |   | x |   |
 | Propuesta de historia |  |  | x |
 | Propuesta de narrativa |  | x  | x |
 | Propuesta de visualizaciones atómicas | x |  |  |
