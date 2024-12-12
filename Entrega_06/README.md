@@ -1,6 +1,6 @@
 # Entrega 06 López, Rivera y Walker
 
-Para la entrega final de nuestro proyecto Chile en Páginas, no realizamos grandes cambios respecto de la entrega 05, salvo algunas modificaciones al color y negrita de algunas partes del texto. 
+Para la entrega final de nuestro proyecto Chile en Páginas, no realizamos grandes cambios respecto de la entrega 05, salvo algunas modificaciones al color y negrita de algunas partes del texto. Y, que el gráfico "Personas Socias y Número de Préstamos por Región" al ser muy ancho no se lograba ver completo, para esta entrega ese problema fue solucionado. 
 
 Lo que si intentamos hacer, y funcionó, fue hacer una visualización del mapa de Chile en Colab (con ayuda de la profe Katherine). Esto con el objetivo de ganar puntos con el ponderador de dificultad. Pero, no logramos insertarlo para que se viera en nuestra página. Finalmente dejamos el mapa creado con Flourish, que es más interactivo y llamativo. 
 
