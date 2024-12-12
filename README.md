@@ -1,5 +1,7 @@
 # Chile en Páginas #
-Hola, somos Gabriela López, Fernanda Rivera y Antonia Walker. 
+Hola!
+
+Somos Gabriela López, Fernanda Rivera y Antonia Walker. 
 Nuestro proyecto se llama Chile en Páginas, nace con el objetivo de conocer cómo es la lectura en Chile. Un tema bastante amplio, es por ello que finalmente nos enfocamos solamente en el uso que le dan los chilenos al Servicio Nacional de Bibliotecas Públicas (SNBP). Bajo la hipótesis final de:
 
 **Los chilenos no utilizan los servicios de las bibliotecas públicas**
