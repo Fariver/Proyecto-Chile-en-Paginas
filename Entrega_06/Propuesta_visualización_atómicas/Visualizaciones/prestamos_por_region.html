@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@4.17.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis-2"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}}, "data": {"name": "data-3d0dd3dbc46c85e3cb565e392929717f"}, "mark": "bar", "encoding": {"color": {"field": "A\u00f1o", "legend": {"title": "A\u00f1o"}, "scale": {"domain": ["2021", "2022", "2023"], "range": ["#628B48", "#E3B23C", "#3B8EA5"]}, "type": "nominal"}, "tooltip": [{"field": "Regiones", "type": "nominal"}, {"field": "A\u00f1o", "type": "nominal"}, {"field": "Valor", "type": "quantitative"}], "x": {"field": "Valor", "title": "Valor", "type": "quantitative"}, "y": {"field": "Regiones", "sort": "-x", "title": "Regi\u00f3n", "type": "nominal"}}, "height": 600, "title": "Pr\u00e9stamos en cada regi\u00f3n por a\u00f1o", "width": 700, "$schema": "https://vega.github.io/schema/vega-lite/v4.17.0.json", "datasets": {"data-3d0dd3dbc46c85e3cb565e392929717f": [{"Regiones": "Regi\u00f3n de Arica y Parinacota", "A\u00f1o": "2021", "Valor": 5510}, {"Regiones": "Regi\u00f3n de Tarapac\u00e1", "A\u00f1o": "2021", "Valor": 1968}, {"Regiones": "Regi\u00f3n de Antofagasta", "A\u00f1o": "2021", "Valor": 3667}, {"Regiones": "Regi\u00f3n de Atacama", "A\u00f1o": "2021", "Valor": 9732}, {"Regiones": "Regi\u00f3n de Coquimbo", "A\u00f1o": "2021", "Valor": 14083}, {"Regiones": "Regi\u00f3n de Valpara\u00edso", "A\u00f1o": "2021", "Valor": 43068}, {"Regiones": "Regi\u00f3n Metropolitana", "A\u00f1o": "2021", "Valor": 128095}, {"Regiones": "Regi\u00f3n de O\u2019Higgins", "A\u00f1o": "2021", "Valor": 41877}, {"Regiones": "Regi\u00f3n del Maule", "A\u00f1o": "2021", "Valor": 22396}, {"Regiones": "Regi\u00f3n de \u00d1uble", "A\u00f1o": "2021", "Valor": 10683}, {"Regiones": "Regi\u00f3n del Biob\u00edo", "A\u00f1o": "2021", "Valor": 26413}, {"Regiones": "Regi\u00f3n de La Araucan\u00eda", "A\u00f1o": "2021", "Valor": 45486}, {"Regiones": "Regi\u00f3n de Los R\u00edos", "A\u00f1o": "2021", "Valor": 11283}, {"Regiones": "Regi\u00f3n de Los Lagos", "A\u00f1o": "2021", "Valor": 44171}, {"Regiones": "Regi\u00f3n de Ays\u00e9n", "A\u00f1o": "2021", "Valor": 14879}, {"Regiones": "Regi\u00f3n de Magallanes", "A\u00f1o": "2021", "Valor": 3288}, {"Regiones": "Regi\u00f3n de Arica y Parinacota", "A\u00f1o": "2022", "Valor": 12454}, {"Regiones": "Regi\u00f3n de Tarapac\u00e1", "A\u00f1o": "2022", "Valor": 2486}, {"Regiones": "Regi\u00f3n de Antofagasta", "A\u00f1o": "2022", "Valor": 19868}, {"Regiones": "Regi\u00f3n de Atacama", "A\u00f1o": "2022", "Valor": 16824}, {"Regiones": "Regi\u00f3n de Coquimbo", "A\u00f1o": "2022", "Valor": 40508}, {"Regiones": "Regi\u00f3n de Valpara\u00edso", "A\u00f1o": "2022", "Valor": 108992}, {"Regiones": "Regi\u00f3n Metropolitana", "A\u00f1o": "2022", "Valor": 400517}, {"Regiones": "Regi\u00f3n de O\u2019Higgins", "A\u00f1o": "2022", "Valor": 52728}, {"Regiones": "Regi\u00f3n del Maule", "A\u00f1o": "2022", "Valor": 40919}, {"Regiones": "Regi\u00f3n de \u00d1uble", "A\u00f1o": "2022", "Valor": 27999}, {"Regiones": "Regi\u00f3n del Biob\u00edo", "A\u00f1o": "2022", "Valor": 51959}, {"Regiones": "Regi\u00f3n de La Araucan\u00eda", "A\u00f1o": "2022", "Valor": 101043}, {"Regiones": "Regi\u00f3n de Los R\u00edos", "A\u00f1o": "2022", "Valor": 31451}, {"Regiones": "Regi\u00f3n de Los Lagos", "A\u00f1o": "2022", "Valor": 89341}, {"Regiones": "Regi\u00f3n de Ays\u00e9n", "A\u00f1o": "2022", "Valor": 25683}, {"Regiones": "Regi\u00f3n de Magallanes", "A\u00f1o": "2022", "Valor": 10153}, {"Regiones": "Regi\u00f3n de Arica y Parinacota", "A\u00f1o": "2023", "Valor": 18397}, {"Regiones": "Regi\u00f3n de Tarapac\u00e1", "A\u00f1o": "2023", "Valor": 8630}, {"Regiones": "Regi\u00f3n de Antofagasta", "A\u00f1o": "2023", "Valor": 27962}, {"Regiones": "Regi\u00f3n de Atacama", "A\u00f1o": "2023", "Valor": 14188}, {"Regiones": "Regi\u00f3n de Coquimbo", "A\u00f1o": "2023", "Valor": 70300}, {"Regiones": "Regi\u00f3n de Valpara\u00edso", "A\u00f1o": "2023", "Valor": 159925}, {"Regiones": "Regi\u00f3n Metropolitana", "A\u00f1o": "2023", "Valor": 603212}, {"Regiones": "Regi\u00f3n de O\u2019Higgins", "A\u00f1o": "2023", "Valor": 67697}, {"Regiones": "Regi\u00f3n del Maule", "A\u00f1o": "2023", "Valor": 57395}, {"Regiones": "Regi\u00f3n de \u00d1uble", "A\u00f1o": "2023", "Valor": 31860}, {"Regiones": "Regi\u00f3n del Biob\u00edo", "A\u00f1o": "2023", "Valor": 64320}, {"Regiones": "Regi\u00f3n de La Araucan\u00eda", "A\u00f1o": "2023", "Valor": 132272}, {"Regiones": "Regi\u00f3n de Los R\u00edos", "A\u00f1o": "2023", "Valor": 46074}, {"Regiones": "Regi\u00f3n de Los Lagos", "A\u00f1o": "2023", "Valor": 116333}, {"Regiones": "Regi\u00f3n de Ays\u00e9n", "A\u00f1o": "2023", "Valor": 32458}, {"Regiones": "Regi\u00f3n de Magallanes", "A\u00f1o": "2023", "Valor": 11033}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis-2');
+      vegaEmbed("#vis-2", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>
