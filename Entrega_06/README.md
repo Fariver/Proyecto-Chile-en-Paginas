@@ -13,7 +13,7 @@ Aquí está lo que hizo cada una para esta entrega:
 | Propuesta de historia |  |  | x |
 | Propuesta de narrativa |  | x  | x |
 | Propuesta de visualizaciones atómicas | x |  |  |
-| Gráficos en con Google Colab |  | x |  |
+| Gráficos en Google Colab |  | x |  |
 | Gráficos con flourish | x | x | x |
 | Comentarios crónica textos |x |  | x |
 | Decisiones de elementos visuales | x | x |  |
@@ -25,5 +25,6 @@ Aquí está lo que hizo cada una para esta entrega:
 
 
 Adjuntamos el link a nuestro [triptico](https://www.canva.com/design/DAGZANiqIz0/6_2c809HH4sTiqpUY_CM8g/edit)
+
 Por último, aquí está nuestra [página final](https://fariver.github.io/Proyecto-Chile-en-Paginas/). 
 
